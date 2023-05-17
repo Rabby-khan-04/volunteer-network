@@ -1,0 +1,149 @@
+[
+  {
+    "image": "https://i.ibb.co/9t9hcZc/study-Group.png",
+    "title": "Study Group",
+    "date": "2023-06-10",
+    "description": "Join our study group and collaborate with other students to enhance your learning experience.",
+    "color": "#421FCF"
+  },
+  {
+    "image": "https://i.ibb.co/92sBcPL/stuffed-Animals.png",
+    "title": "Stuffed Animals",
+    "date": "2023-07-02",
+    "description": "Donate new or gently used stuffed animals for children in need and bring smiles to their faces.",
+    "color": "#FF7044"
+  },
+  {
+    "image": "https://i.ibb.co/2SV7T3L/vote-Register.png",
+    "title": "Vote Register",
+    "date": "2023-06-22",
+    "description": "Learn about the importance of voting and register yourself to participate in the upcoming elections.",
+    "color": "#FFBD3E"
+  },
+  {
+    "image": "https://i.ibb.co/SnXcW1y/animal-Shelter.png",
+    "title": "Animal Shelter",
+    "date": "2023-08-08",
+    "description": "Volunteer at the local animal shelter and provide care and love to the rescued animals.",
+    "color": "#3F90FC"
+  },
+  {
+    "image": "https://i.ibb.co/MG24PgB/babySit.png",
+    "title": "Baby Sit",
+    "date": "2023-07-16",
+    "description": "Offer your babysitting services to busy parents and create a safe and enjoyable environment for their children.",
+    "color": "#FF7044"
+  },
+  {
+    "image": "https://i.ibb.co/xYWG3yK/bird-House.png",
+    "title": "Bird House",
+    "date": "2023-06-28",
+    "description": "Build birdhouses to provide shelter and nesting spaces for our feathered friends.",
+    "color": "#3F90FC"
+  },
+  {
+    "image": "https://i.ibb.co/FWFps7d/child-Support.png",
+    "title": "Child Support",
+    "date": "2023-07-08",
+    "description": "Support underprivileged children by providing them with educational resources, mentorship, and encouragement.",
+    "color": "#FFBD3E"
+  },
+  {
+    "image": "https://i.ibb.co/g9x46jB/clean-Water.png",
+    "title": "Clean Water",
+    "date": "2023-06-15",
+    "description": "Join our campaign to provide clean and safe drinking water to communities in need.",
+    "color": "#421FCF"
+  },
+  {
+    "image": "https://i.ibb.co/R68Tn82/clearn-Park.png",
+    "title": "Clearn Park",
+    "date": "2023-08-02",
+    "description": "Participate in a park cleanup event and contribute to maintaining a clean and green environment for everyone to enjoy.",
+    "color": "#FFBD3E"
+  },
+  {
+    "image": "https://i.ibb.co/MpS0gLP/cloth-Swap.png",
+    "title": "Cloth Swap",
+    "date": "2023-06-25",
+    "description": "Exchange your gently worn clothes with others and promote sustainable fashion practices.",
+    "color": "#421FCF"
+  },
+  {
+    "image": "https://i.ibb.co/tbTwvYK/drive-Safety.png",
+    "title": "Drive Safety",
+    "date": "2023-07-12",
+    "description": "Raise awareness about safe driving practices and encourage responsible behavior on the roads.",
+    "color": "#FF7044"
+  },
+  {
+    "image": "https://i.ibb.co/fFcZ0gz/extra-Volunteer.png",
+    "title": "Extra Volunteer",
+    "date": "2023-08-05",
+    "description": "Become an extra volunteer for various community events and make a difference wherever help is needed.",
+    "color": "#FFBD3E"
+  },
+  {
+    "image": "https://i.ibb.co/zf9TsNd/food-Charity.png",
+    "title": "Food Charity",
+    "date": "2023-06-18",
+    "description": "Contribute to our food charity drive by donating non-perishable food items for those facing food insecurity.",
+    "color": "#3F90FC"
+  },
+  {
+    "image": "https://i.ibb.co/pd0F02N/good-Education.png",
+    "title": "Good Education",
+    "date": "2023-07-30",
+    "description": "Support educational initiatives by volunteering your time or donating resources to improve access to quality education.",
+    "color": "#FFBD3E"
+  },
+  {
+    "image": "https://i.ibb.co/WycCWWF/ITHelp.png",
+    "title": "IT Help",
+    "date": "2023-06-20",
+    "description": "Offer your expertise in IT to provide assistance and support to individuals or organizations in need.",
+    "color": "#FF7044"
+  },
+  {
+    "image": "https://i.ibb.co/rdwLRgN/library-Books.png",
+    "title": "Library Books",
+    "date": "2023-07-10",
+    "description": "Donate books to local libraries and promote literacy and a love for reading in your community.",
+    "color": "#421FCF"
+  },
+  {
+    "image": "https://i.ibb.co/DwWFDTB/music-Lessons.png",
+    "title": "Music Lessons",
+    "date": "2023-08-12",
+    "description": "Share your musical talents by providing free music lessons to aspiring musicians or community members.",
+    "color": "#FFBD3E"
+  },
+  {
+    "image": "https://i.ibb.co/k68ShwH/newBooks.png",
+    "title": "New Books",
+    "date": "2023-06-30",
+    "description": "Collect and distribute new books to schools, libraries, or underprivileged children to foster a love for reading.",
+    "color": "#3F90FC"
+  },
+  {
+    "image": "https://i.ibb.co/mHq0V0J/refuse-Shelter.png",
+    "title": "Refuse Shelter",
+    "date": "2023-07-20",
+    "description": "Help homeless individuals by supporting local refuse shelters and providing them with essential supplies and resources.",
+    "color": "#FF7044"
+  },
+  {
+    "image": "https://i.ibb.co/ys84cDP/river-Clean.png",
+    "title": "River Clean",
+    "date": "2023-08-01",
+    "description": "Join us in cleaning up and preserving the health of our rivers and waterways for a cleaner environment.",
+    "color": "#FFBD3E"
+  },
+  {
+    "image": "https://i.ibb.co/59XcBDn/school-Suffiles.png",
+    "title": "School Supplies",
+    "date": "2023-06-28",
+    "description": "Donate school supplies to ensure students have the tools they need to succeed in their education.",
+    "color": "#421FCF"
+  }
+]
